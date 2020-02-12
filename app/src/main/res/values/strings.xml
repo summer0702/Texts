@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Button</string>
+    <string name="click_button3">Button 3</string>
+    <string name="click_button4">Button 4</string>
+    <string-array name="thingsdisplayed">
+        <item>Hello Person!</item>
+        <item>Hello Mr. Tra!</item>
+        <item>Hello :)</item>
+    </string-array>
+</resources>
+
